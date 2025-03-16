@@ -12,7 +12,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=superdonkey007&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?usersuperdonkey007&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=superdonkey007&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=superdonkey007&theme=github-compact&hide_border=true&area=true">
@@ -30,8 +30,6 @@
 <p align="center">
 <a href="https://github.com/superdonkey007"><img src="https://img.shields.io/badge/GitHub-superdonkey007-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-1240118487-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=superdonkey007&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
